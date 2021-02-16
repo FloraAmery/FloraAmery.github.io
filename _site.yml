@@ -1,6 +1,1 @@
 name: "NailsByFlo"
-navbar:
-  title: ""
-  left:
-    - text: "Welcome"
-      href: index.html
