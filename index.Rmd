@@ -2,6 +2,14 @@
 title: ""
 ---
 
+<head>
+<style>
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+</style>
+</head>
+
 <br>
 <center>
 
@@ -9,9 +17,7 @@ title: ""
 
 <br><br>
 
-
-<span style="color: #e78200;"> <h3> <b> For more information, please visit <a href=”https://www.instagram.com/gelnailsbyflo/”><font color=#DBC3A1>GelNailsByFlo</font></a> on Instagram </b> </h3> </span>
-
-
-
-
+<body>
+<span style="color: #e78200;"> <h3> <b> For more information, please visit GelNailsByFlo on <a href = "https://www.instagram.com/gelnailsbyflo/"><font color = #DBC3A1>Instagram</font></a> or <a href =  "https://www.facebook.com/gelnailsbyflo"> <font color = #DBC3A1>Facebook</font></a>  </b> </h3> 
+</span>
+</body>
